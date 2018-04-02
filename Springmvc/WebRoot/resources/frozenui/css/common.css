@@ -1,0 +1,10 @@
+.wx_title{
+	width: 100%;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    height: 100px;
+    font-size: x-large;
+    font-weight: bold;
+}
